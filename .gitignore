@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+exp01_data/
+.ipynb_checkpoints/
+*.conda
+student_utils.pyc
